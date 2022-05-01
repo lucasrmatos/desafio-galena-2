@@ -48,7 +48,19 @@ Here are the technologies used in this project as describes in requirements.txt 
 As a resume, the application have this urls:
  ![image](https://user-images.githubusercontent.com/39964162/166124828-2e1893b0-3e59-4ec7-9b39-c7227fa299af.png)
 
- 
+*  >    $ \admin\
+
+Where you need a credential to login in and manage as your preference
+
+* >    $  \candidatos\
+
+Where you can manage de database just loggin in website. ( try \candidatos\1\ for more)
+
+*  >    $ \\
+*  >    $ \tabela\
+
+Both are used as front view for database and site.
+
 ## Features
  
   - Manage (Create, Read, Update and Delete) a Database Candidato by using API ;
