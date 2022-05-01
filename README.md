@@ -42,7 +42,8 @@ Here are the technologies used in this project as describes in requirements.txt 
 * To run the application in \masterroot (same folder where you find manage.py):
 >    $ python manage.py runserver
 
- 
+go in https://github.com/lucasrmatos/desafio-galena-2/tree/master to see all files.
+
 ## How to use
  
 As a resume, the application have this urls:
